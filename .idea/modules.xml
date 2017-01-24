@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" group="java-brushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" group="java-brushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/other-mod/other-mod.iml" filepath="$PROJECT_DIR$/.idea/modules/other-mod/other-mod.iml" group="other-mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/other-mod/other-mod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/other-mod/other-mod_main.iml" group="other-mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/other-mod/other-mod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/other-mod/other-mod_test.iml" group="other-mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-module/sample-module.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-module/sample-module.iml" group="sample-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-module/sample-module_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-module/sample-module_main.iml" group="sample-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-module/sample-module_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-module/sample-module_test.iml" group="sample-module" />
+    </modules>
+  </component>
+</project>
