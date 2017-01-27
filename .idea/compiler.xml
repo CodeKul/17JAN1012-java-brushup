@@ -19,6 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="concepts_main" target="1.8" />
+      <module name="concepts_test" target="1.8" />
       <module name="java-brushup_main" target="1.8" />
       <module name="java-brushup_test" target="1.8" />
       <module name="other-mod_main" target="1.8" />

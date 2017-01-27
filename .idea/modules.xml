@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concepts/concepts.iml" filepath="$PROJECT_DIR$/.idea/modules/concepts/concepts.iml" group="concepts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concepts/concepts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/concepts/concepts_main.iml" group="concepts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concepts/concepts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/concepts/concepts_test.iml" group="concepts" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" group="java-brushup" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" group="java-brushup" />

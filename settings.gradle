@@ -1,4 +1,5 @@
 rootProject.name = 'java-brushup'
 include 'sample-module'
 include 'other-mod'
+include 'concepts'
 
